@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af530ac9-b4f3-4d43-9bfa-bdc535bc430a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../SaladilloVr/SaladilloVr/Assets/Scripts/ButtonClick.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartTrainingScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoytick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndTraining.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DniConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndTraining.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveJoytick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovementScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayAnimator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveDni.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartTrainingScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="35" />
+    <option name="width" value="1296" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SaladilloFitVR (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SaladilloFitVR (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SaladilloFitVR (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af530ac9-b4f3-4d43-9bfa-bdc535bc430a" name="Default" comment="" />
+      <created>1519675744654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519675744654</updated>
+      <workItem from="1519675757713" duration="2652000" />
+      <workItem from="1519730660779" duration="10237000" />
+      <workItem from="1519744713759" duration="5897000" />
+      <workItem from="1519754565686" duration="7166000" />
+      <workItem from="1519766622877" duration="531000" />
+      <workItem from="1519919518280" duration="1640000" />
+      <workItem from="1520275166399" duration="2184000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="30307000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="35" width="1296" height="1053" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973786" sideWeight="0.50277776" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3255086" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973786" sideWeight="0.49722221" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <folding>
+            <marker date="1520275569477" expanded="true" signature="0:200" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275569477" expanded="false" signature="208:242" ph="..." />
+            <marker date="1520275569477" expanded="true" signature="288:2279" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="295:367" ph="/// Indica el tiempo de activación. ... " />
+            <marker date="1520275569477" expanded="true" signature="411:477" ph="/// Indica si está mirandose. ... " />
+            <marker date="1520275569477" expanded="true" signature="517:594" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1520275569477" expanded="true" signature="688:1474" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="703:965" ph="/* Si el usuario esta mirando el objeto y el temporizador ... */" />
+            <marker date="1520275569477" expanded="true" signature="1103:1468" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="1210:1311" ph="/* Desactivaremos el contador de tiempo del cursor, para ... */" />
+            <marker date="1520275569477" expanded="true" signature="1480:1575" ph="/// Metodo que llamaremos desde EventTrigger PointerEmter. ... " />
+            <marker date="1520275569477" expanded="true" signature="1604:1925" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="1931:2028" ph="/// Método que llamaremos desde el eventTrigger pointerexit. ... " />
+            <marker date="1520275569477" expanded="true" signature="2055:2277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndTraining.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="55" lean-forward="false" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <folding>
+            <marker date="1520276094494" expanded="true" signature="0:196" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276094494" expanded="false" signature="204:251" ph="..." />
+            <marker date="1520276094494" expanded="true" signature="293:467" ph="{...}" />
+            <marker date="1520276094494" expanded="true" signature="300:389" ph="/// Método click del botón que carga la escena Main. ... " />
+            <marker date="1520276094494" expanded="true" signature="413:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <marker date="1520275800484" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275800484" expanded="false" signature="210:314" ph="..." />
+            <marker date="1520275800484" expanded="true" signature="362:2155" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="369:459" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="498:591" ph="/// Objeto que indica que se ha no establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="633:699" ph="/// Objeto panel del cliente. ... " />
+            <marker date="1520275800484" expanded="true" signature="752:1063" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1069:1272" ph="/// Comprueba si existe conexión con la web API. ... " />
+            <marker date="1520275800484" expanded="true" signature="1309:1372" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1416:2153" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1623:2147" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1739:1960" ph="/* Comprueba el valor devuelto por el metodo , si la respuesta es correcta activa la bola connected sino activa l ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding>
+            <marker date="1520276952660" expanded="true" signature="0:192" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276952660" expanded="false" signature="200:304" ph="..." />
+            <marker date="1520276952660" expanded="true" signature="342:3014" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="349:435" ph="/// Objeto con el dni introducido por el usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="468:541" ph="/// Panel de bienvenida del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="572:643" ph="/// Panel de training del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="681:747" ph="/// Panel detail del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="783:989" ph="/// Método que se ejecuta cuando se pulsa el boton save. ... " />
+            <marker date="1520276952660" expanded="true" signature="1013:1325" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1260:1319" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1331:1637" ph="/// Método que se ejecuta en el click. ... " />
+            <marker date="1520276952660" expanded="true" signature="1670:1725" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1761:3012" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2011:3006" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2248:2996" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2530:2789" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2810:2982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="72" column="16" lean-forward="false" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+          <folding>
+            <marker date="1520277338758" expanded="true" signature="0:205" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520277338758" expanded="false" signature="213:351" ph="..." />
+            <marker date="1520277338758" expanded="true" signature="402:3567" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="409:498" ph="/// Corresponde al número de entrenamiento asignado. ... " />
+            <marker date="1520277338758" expanded="true" signature="529:598" ph="/// Corresponde al panel detail. ... " />
+            <marker date="1520277338758" expanded="true" signature="713:915" ph="/// Al hacer click se ejecutará una corrutina que ejecutuará una pedicion a la api y también guarda dicho entrena ... " />
+            <marker date="1520277338758" expanded="true" signature="939:1016" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1022:1198" ph="/// Método que ejecutará la corrutina, esta enviará una solicitud con el número de entrenamiento y esperará una l ... " />
+            <marker date="1520277338758" expanded="true" signature="1230:1287" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1325:3243" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1549:3237" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1788:3227" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1974:2057" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="2666:3213" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3249:3565" ph="Entidades" />
+            <marker date="1520277338758" expanded="true" signature="3297:3350" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3401:3549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartTrainingScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <marker date="1520277249964" expanded="true" signature="0:201" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1520277249964" expanded="false" signature="208:359" ph="..." />
+            <marker date="1520277249964" expanded="true" signature="409:1937" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="416:612" ph="/// Método click del botón. ... " />
+            <marker date="1520277249964" expanded="true" signature="636:806" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="755:800" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="812:1009" ph="/// Guarda la información del cliente. ... " />
+            <marker date="1520277249964" expanded="true" signature="1038:1093" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1128:1935" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1558:1929" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1795:1919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <marker date="1520275753212" expanded="true" signature="0:197" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275753212" expanded="false" signature="205:253" ph="..." />
+            <marker date="1520275753212" expanded="true" signature="297:1479" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="305:381" ph="/// Corresponde al valor de cada botón. ... " />
+            <marker date="1520275753212" expanded="true" signature="413:508" ph="/// Corresponde al objeto Text del panel de configuración. ... " />
+            <marker date="1520275753212" expanded="true" signature="587:709" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="715:1021" ph="/// Es llamado al pulsar en cada botón del teclado. ... " />
+            <marker date="1520275753212" expanded="true" signature="1045:1477" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1124:1220" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1300:1352" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1416:1471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1520275800484" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275800484" expanded="false" signature="210:314" ph="..." />
+            <marker date="1520275800484" expanded="true" signature="362:2155" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="369:459" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="498:591" ph="/// Objeto que indica que se ha no establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="633:699" ph="/// Objeto panel del cliente. ... " />
+            <marker date="1520275800484" expanded="true" signature="752:1063" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1069:1272" ph="/// Comprueba si existe conexión con la web API. ... " />
+            <marker date="1520275800484" expanded="true" signature="1309:1372" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1416:2153" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1623:2147" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1739:1960" ph="/* Comprueba el valor devuelto por el metodo , si la respuesta es correcta activa la bola connected sino activa l ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="35" lean-forward="false" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartTrainingScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <marker date="1520277249964" expanded="true" signature="0:201" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1520277249964" expanded="false" signature="208:359" ph="..." />
+            <marker date="1520277249964" expanded="true" signature="409:1937" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="416:612" ph="/// Método click del botón. ... " />
+            <marker date="1520277249964" expanded="true" signature="636:806" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="755:800" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="812:1009" ph="/// Guarda la información del cliente. ... " />
+            <marker date="1520277249964" expanded="true" signature="1038:1093" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1128:1935" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1558:1929" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1795:1919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndTraining.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <marker date="1520276094494" expanded="true" signature="0:196" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276094494" expanded="false" signature="204:251" ph="..." />
+            <marker date="1520276094494" expanded="true" signature="293:467" ph="{...}" />
+            <marker date="1520276094494" expanded="true" signature="300:389" ph="/// Método click del botón que carga la escena Main. ... " />
+            <marker date="1520276094494" expanded="true" signature="413:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding>
+            <marker date="1520276952660" expanded="true" signature="0:192" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276952660" expanded="false" signature="200:304" ph="..." />
+            <marker date="1520276952660" expanded="true" signature="342:3014" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="349:435" ph="/// Objeto con el dni introducido por el usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="468:541" ph="/// Panel de bienvenida del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="572:643" ph="/// Panel de training del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="681:747" ph="/// Panel detail del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="783:989" ph="/// Método que se ejecuta cuando se pulsa el boton save. ... " />
+            <marker date="1520276952660" expanded="true" signature="1013:1325" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1260:1319" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1331:1637" ph="/// Método que se ejecuta en el click. ... " />
+            <marker date="1520276952660" expanded="true" signature="1670:1725" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1761:3012" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2011:3006" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2248:2996" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2530:2789" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2810:2982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <marker date="1520277338758" expanded="true" signature="0:205" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520277338758" expanded="false" signature="213:351" ph="..." />
+            <marker date="1520277338758" expanded="true" signature="402:3567" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="409:498" ph="/// Corresponde al número de entrenamiento asignado. ... " />
+            <marker date="1520277338758" expanded="true" signature="529:598" ph="/// Corresponde al panel detail. ... " />
+            <marker date="1520277338758" expanded="true" signature="713:915" ph="/// Al hacer click se ejecutará una corrutina que ejecutuará una pedicion a la api y también guarda dicho entrena ... " />
+            <marker date="1520277338758" expanded="true" signature="939:1016" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1022:1198" ph="/// Método que ejecutará la corrutina, esta enviará una solicitud con el número de entrenamiento y esperará una l ... " />
+            <marker date="1520277338758" expanded="true" signature="1230:1287" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1325:3243" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1549:3237" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1788:3227" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1974:2057" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="2666:3213" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3249:3565" ph="Entidades" />
+            <marker date="1520277338758" expanded="true" signature="3297:3350" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3401:3549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DniConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <marker date="1520275753212" expanded="true" signature="0:197" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275753212" expanded="false" signature="205:253" ph="..." />
+            <marker date="1520275753212" expanded="true" signature="297:1479" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="305:381" ph="/// Corresponde al valor de cada botón. ... " />
+            <marker date="1520275753212" expanded="true" signature="413:508" ph="/// Corresponde al objeto Text del panel de configuración. ... " />
+            <marker date="1520275753212" expanded="true" signature="587:709" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="715:1021" ph="/// Es llamado al pulsar en cada botón del teclado. ... " />
+            <marker date="1520275753212" expanded="true" signature="1045:1477" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1124:1220" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1300:1352" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1416:1471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1520275800484" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275800484" expanded="false" signature="210:314" ph="..." />
+            <marker date="1520275800484" expanded="true" signature="362:2155" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="369:459" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="498:591" ph="/// Objeto que indica que se ha no establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="633:699" ph="/// Objeto panel del cliente. ... " />
+            <marker date="1520275800484" expanded="true" signature="752:1063" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1069:1272" ph="/// Comprueba si existe conexión con la web API. ... " />
+            <marker date="1520275800484" expanded="true" signature="1309:1372" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1416:2153" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1623:2147" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1739:1960" ph="/* Comprueba el valor devuelto por el metodo , si la respuesta es correcta activa la bola connected sino activa l ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DniConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1230">
+          <caret line="82" column="5" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="82" selection-end-column="5" />
+          <folding>
+            <marker date="1520276952660" expanded="true" signature="0:192" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276952660" expanded="false" signature="200:304" ph="..." />
+            <marker date="1520276952660" expanded="true" signature="342:3014" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="349:435" ph="/// Objeto con el dni introducido por el usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="468:541" ph="/// Panel de bienvenida del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="572:643" ph="/// Panel de training del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="681:747" ph="/// Panel detail del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="783:989" ph="/// Método que se ejecuta cuando se pulsa el boton save. ... " />
+            <marker date="1520276952660" expanded="true" signature="1013:1325" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1260:1319" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1331:1637" ph="/// Método que se ejecuta en el click. ... " />
+            <marker date="1520276952660" expanded="true" signature="1670:1725" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1761:3012" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2011:3006" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2248:2996" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2530:2789" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2810:2982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <marker date="1520277338758" expanded="true" signature="0:205" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520277338758" expanded="false" signature="213:351" ph="..." />
+            <marker date="1520277338758" expanded="true" signature="402:3567" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="409:498" ph="/// Corresponde al número de entrenamiento asignado. ... " />
+            <marker date="1520277338758" expanded="true" signature="529:598" ph="/// Corresponde al panel detail. ... " />
+            <marker date="1520277338758" expanded="true" signature="713:915" ph="/// Al hacer click se ejecutará una corrutina que ejecutuará una pedicion a la api y también guarda dicho entrena ... " />
+            <marker date="1520277338758" expanded="true" signature="939:1016" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1022:1198" ph="/// Método que ejecutará la corrutina, esta enviará una solicitud con el número de entrenamiento y esperará una l ... " />
+            <marker date="1520277338758" expanded="true" signature="1230:1287" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1325:3243" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1549:3237" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1788:3227" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1974:2057" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="2666:3213" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3249:3565" ph="Entidades" />
+            <marker date="1520277338758" expanded="true" signature="3297:3350" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3401:3549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <marker date="1520275753212" expanded="true" signature="0:197" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275753212" expanded="false" signature="205:253" ph="..." />
+            <marker date="1520275753212" expanded="true" signature="297:1479" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="305:381" ph="/// Corresponde al valor de cada botón. ... " />
+            <marker date="1520275753212" expanded="true" signature="413:508" ph="/// Corresponde al objeto Text del panel de configuración. ... " />
+            <marker date="1520275753212" expanded="true" signature="587:709" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="715:1021" ph="/// Es llamado al pulsar en cada botón del teclado. ... " />
+            <marker date="1520275753212" expanded="true" signature="1045:1477" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1124:1220" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1300:1352" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1416:1471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <marker date="1520275800484" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275800484" expanded="false" signature="210:314" ph="..." />
+            <marker date="1520275800484" expanded="true" signature="362:2155" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="369:459" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="498:591" ph="/// Objeto que indica que se ha no establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="633:699" ph="/// Objeto panel del cliente. ... " />
+            <marker date="1520275800484" expanded="true" signature="752:1063" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1069:1272" ph="/// Comprueba si existe conexión con la web API. ... " />
+            <marker date="1520275800484" expanded="true" signature="1309:1372" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1416:2153" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1623:2147" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1739:1960" ph="/* Comprueba el valor devuelto por el metodo , si la respuesta es correcta activa la bola connected sino activa l ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="50" lean-forward="false" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DniConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="58" column="48" lean-forward="false" selection-start-line="58" selection-start-column="48" selection-end-line="58" selection-end-column="48" />
+          <folding>
+            <marker date="1520276952660" expanded="true" signature="0:192" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276952660" expanded="false" signature="200:304" ph="..." />
+            <marker date="1520276952660" expanded="true" signature="342:3014" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="349:435" ph="/// Objeto con el dni introducido por el usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="468:541" ph="/// Panel de bienvenida del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="572:643" ph="/// Panel de training del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="681:747" ph="/// Panel detail del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="783:989" ph="/// Método que se ejecuta cuando se pulsa el boton save. ... " />
+            <marker date="1520276952660" expanded="true" signature="1013:1325" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1260:1319" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1331:1637" ph="/// Método que se ejecuta en el click. ... " />
+            <marker date="1520276952660" expanded="true" signature="1670:1725" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1761:3012" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2011:3006" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2248:2996" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2530:2789" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2810:2982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/Unity3DRider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="488" column="0" lean-forward="false" selection-start-line="488" selection-start-column="0" selection-end-line="488" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadButtonScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScrollDown.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SphereScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DniConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/../../SaladilloVr/SaladilloVr/Assets/Scripts/ButtonClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1519470747270" expanded="true" signature="0:197" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1519470747270" expanded="true" signature="258:556" ph="{...}" />
+            <marker date="1519470747270" expanded="true" signature="262:349" ph="/// GameObject que se modifica cuando se pulsa el botón. ... " />
+            <marker date="1519470747270" expanded="true" signature="437:554" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <marker date="1520275477701" expanded="true" signature="0:196" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275477701" expanded="true" signature="258:626" ph="{...}" />
+            <marker date="1520275477701" expanded="true" signature="265:358" ph="/// GameObject que se modifica cuando se pulsa el botón. ... " />
+            <marker date="1520275477701" expanded="true" signature="398:464" ph="/* Use this for initialization ... */" />
+            <marker date="1520275477701" expanded="true" signature="488:624" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonGazeClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <marker date="1520275569477" expanded="true" signature="0:200" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275569477" expanded="false" signature="208:242" ph="..." />
+            <marker date="1520275569477" expanded="true" signature="288:2279" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="295:367" ph="/// Indica el tiempo de activación. ... " />
+            <marker date="1520275569477" expanded="true" signature="411:477" ph="/// Indica si está mirandose. ... " />
+            <marker date="1520275569477" expanded="true" signature="517:594" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1520275569477" expanded="true" signature="688:1474" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="703:965" ph="/* Si el usuario esta mirando el objeto y el temporizador ... */" />
+            <marker date="1520275569477" expanded="true" signature="1103:1468" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="1210:1311" ph="/* Desactivaremos el contador de tiempo del cursor, para ... */" />
+            <marker date="1520275569477" expanded="true" signature="1480:1575" ph="/// Metodo que llamaremos desde EventTrigger PointerEmter. ... " />
+            <marker date="1520275569477" expanded="true" signature="1604:1925" ph="{...}" />
+            <marker date="1520275569477" expanded="true" signature="1931:2028" ph="/// Método que llamaremos desde el eventTrigger pointerexit. ... " />
+            <marker date="1520275569477" expanded="true" signature="2055:2277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonNumber.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="179" lean-forward="true" selection-start-line="34" selection-start-column="179" selection-end-line="34" selection-end-column="179" />
+          <folding>
+            <marker date="1520275753212" expanded="true" signature="0:197" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275753212" expanded="false" signature="205:253" ph="..." />
+            <marker date="1520275753212" expanded="true" signature="297:1479" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="305:381" ph="/// Corresponde al valor de cada botón. ... " />
+            <marker date="1520275753212" expanded="true" signature="413:508" ph="/// Corresponde al objeto Text del panel de configuración. ... " />
+            <marker date="1520275753212" expanded="true" signature="587:709" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="715:1021" ph="/// Es llamado al pulsar en cada botón del teclado. ... " />
+            <marker date="1520275753212" expanded="true" signature="1045:1477" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1124:1220" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1300:1352" ph="{...}" />
+            <marker date="1520275753212" expanded="true" signature="1416:1471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConfigurationText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <marker date="1520275800484" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520275800484" expanded="false" signature="210:314" ph="..." />
+            <marker date="1520275800484" expanded="true" signature="362:2155" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="369:459" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="498:591" ph="/// Objeto que indica que se ha no establecido conexión. ... " />
+            <marker date="1520275800484" expanded="true" signature="633:699" ph="/// Objeto panel del cliente. ... " />
+            <marker date="1520275800484" expanded="true" signature="752:1063" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1069:1272" ph="/// Comprueba si existe conexión con la web API. ... " />
+            <marker date="1520275800484" expanded="true" signature="1309:1372" ph="{...}" />
+            <marker date="1520275800484" expanded="false" signature="1416:2153" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1623:2147" ph="{...}" />
+            <marker date="1520275800484" expanded="true" signature="1739:1960" ph="/* Comprueba el valor devuelto por el metodo , si la respuesta es correcta activa la bola connected sino activa l ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CustomPointerTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <marker date="1520276049612" expanded="true" signature="0:202" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276049612" expanded="false" signature="209:243" ph="..." />
+            <marker date="1520276049612" expanded="true" signature="292:2762" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="299:379" ph="///Objeto compartido por todos los Scripts. ... " />
+            <marker date="1520276049612" expanded="true" signature="427:548" ph="/// &lt;summary&gt; ... " />
+            <marker date="1520276049612" expanded="true" signature="589:643" ph="/// Temporizador. ... " />
+            <marker date="1520276049612" expanded="true" signature="679:761" ph="/// Componente Image de la imagen de relleno. ... " />
+            <marker date="1520276049612" expanded="true" signature="792:854" ph="/// Cuando está contando. ... " />
+            <marker date="1520276049612" expanded="true" signature="965:1036" ph="/// Indica si ha llegado al final. ... " />
+            <marker date="1520276049612" expanded="true" signature="1096:1165" ph="/// &lt;summary&gt; ... " />
+            <marker date="1520276049612" expanded="true" signature="1190:1496" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="1275:1398" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="1516:2317" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="1544:1941" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="1954:2117" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="2210:2311" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="2323:2468" ph="/// Inicia el temporizador utilizando el tiempo indicado como parametro. ... " />
+            <marker date="1520276049612" expanded="true" signature="2510:2597" ph="{...}" />
+            <marker date="1520276049612" expanded="true" signature="2607:2669" ph="/// Para el temporizador. ... " />
+            <marker date="1520276049612" expanded="true" signature="2700:2760" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EndTraining.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <marker date="1520276094494" expanded="true" signature="0:196" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276094494" expanded="false" signature="204:251" ph="..." />
+            <marker date="1520276094494" expanded="true" signature="293:467" ph="{...}" />
+            <marker date="1520276094494" expanded="true" signature="300:389" ph="/// Método click del botón que carga la escena Main. ... " />
+            <marker date="1520276094494" expanded="true" signature="413:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MoveJoytick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <marker date="1520276428357" expanded="true" signature="0:196" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276428357" expanded="true" signature="258:1366" ph="{...}" />
+            <marker date="1520276428357" expanded="true" signature="265:341" ph="/// Máxima velocidad de desplazamiento. ... " />
+            <marker date="1520276428357" expanded="true" signature="381:438" ph="/// &lt;summary&gt; ... " />
+            <marker date="1520276428357" expanded="true" signature="478:561" ph="/// Referencia al Rigibody que queremos mover. ... " />
+            <marker date="1520276428357" expanded="true" signature="611:670" ph="{...}" />
+            <marker date="1520276428357" expanded="true" signature="694:1364" ph="{...}" />
+            <marker date="1520276428357" expanded="true" signature="1279:1358" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <marker date="1520276293108" expanded="true" signature="32:1660" ph="{...}" />
+            <marker date="1520276293108" expanded="true" signature="39:106" ph="/// Clave para la dirección IP ... " />
+            <marker date="1520276293108" expanded="true" signature="163:246" ph="/// Variable para amacenar la IP de la Web API ... " />
+            <marker date="1520276293108" expanded="true" signature="288:359" ph="/// Clave para el dni del cliente. ... " />
+            <marker date="1520276293108" expanded="true" signature="416:498" ph="/// Variable que almacena el dni del cliente. ... " />
+            <marker date="1520276293108" expanded="true" signature="540:625" ph="/// Variable que almacena el nombre del cliente. ... " />
+            <marker date="1520276293108" expanded="true" signature="662:745" ph="/// Variable que almacnae el ejercicio elegido ... " />
+            <marker date="1520276293108" expanded="true" signature="787:906" ph="/// Constante con la URL del método de la WEB API para comprobar la conectividad. ... " />
+            <marker date="1520276293108" expanded="true" signature="1031:1140" ph="/// Constante con la URL del método de la WEB API para obtener clientes. ... " />
+            <marker date="1520276293108" expanded="true" signature="1270:1349" ph="/// Constante para obtener los ejercicios. ... " />
+            <marker date="1520276293108" expanded="true" signature="1475:1551" ph="/// Constante efectuar el log a la api. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MovementScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="43" lean-forward="false" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <marker date="1520276541932" expanded="true" signature="0:199" ph="/* Práctica: SaladilloFitVr ... */" />
+            <marker date="1520276541932" expanded="true" signature="264:1469" ph="{...}" />
+            <marker date="1520276541932" expanded="true" signature="271:347" ph="/// Velocidad máxima de desplazamiento. ... " />
+            <marker date="1520276541932" expanded="true" signature="387:445" ph="/// Fuerza de empuje. ... " />
+            <marker date="1520276541932" expanded="true" signature="485:583" ph="/// Indicar si el usuario esta mirando directamente al disco. ... " />
+            <marker date="1520276541932" expanded="true" signature="640:724" ph="/// Referencia al rigidbody que queremos mover. ... " />
+            <marker date="1520276541932" expanded="true" signature="785:1112" ph="{...}" />
+            <marker date="1520276541932" expanded="true" signature="812:1106" ph="{...}" />
+            <marker date="1520276541932" expanded="true" signature="879:1096" ph="{...}" />
+            <marker date="1520276541932" expanded="true" signature="1118:1212" ph="/// Acciones a realizar para el evento de mirar el disco. ... " />
+            <marker date="1520276541932" expanded="true" signature="1249:1285" ph="{...}" />
+            <marker date="1520276541932" expanded="true" signature="1291:1394" ph="/// Acciones a realizar para el evento de dejar de mirar el disco. ... " />
+            <marker date="1520276541932" expanded="true" signature="1430:1467" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayAnimator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <marker date="1520276813949" expanded="true" signature="0:198" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276813949" expanded="true" signature="261:2084" ph="{...}" />
+            <marker date="1520276813949" expanded="true" signature="268:352" ph="/// Tiempo que tardará en activarse el puntero. ... " />
+            <marker date="1520276813949" expanded="true" signature="396:479" ph="/// Indica si el puntero está sobre el objeto. ... " />
+            <marker date="1520276813949" expanded="true" signature="519:596" ph="/// Indica si la acción se ha realizado. ... " />
+            <marker date="1520276813949" expanded="true" signature="637:711" ph="/// Objeto que contiene la animación. ... " />
+            <marker date="1520276813949" expanded="true" signature="761:1458" ph="{...}" />
+            <marker date="1520276813949" expanded="true" signature="1135:1452" ph="{...}" />
+            <marker date="1520276813949" expanded="true" signature="1464:1559" ph="/// Método que llamaremos desde EventTrigger PointerEnter. ... " />
+            <marker date="1520276813949" expanded="true" signature="1588:1790" ph="{...}" />
+            <marker date="1520276813949" expanded="true" signature="1796:1893" ph="/// Método que llamaremos desde el eventTrigger pointerexit. ... " />
+            <marker date="1520276813949" expanded="true" signature="1920:2082" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveDni.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <marker date="1520276952660" expanded="true" signature="0:192" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520276952660" expanded="false" signature="200:304" ph="..." />
+            <marker date="1520276952660" expanded="true" signature="342:3014" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="349:435" ph="/// Objeto con el dni introducido por el usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="468:541" ph="/// Panel de bienvenida del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="572:643" ph="/// Panel de training del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="681:747" ph="/// Panel detail del usuario. ... " />
+            <marker date="1520276952660" expanded="true" signature="783:989" ph="/// Método que se ejecuta cuando se pulsa el boton save. ... " />
+            <marker date="1520276952660" expanded="true" signature="1013:1325" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1260:1319" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1331:1637" ph="/// Método que se ejecuta en el click. ... " />
+            <marker date="1520276952660" expanded="true" signature="1670:1725" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="1761:3012" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2011:3006" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2248:2996" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2530:2789" ph="{...}" />
+            <marker date="1520276952660" expanded="true" signature="2810:2982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SaveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <marker date="1520277183717" expanded="true" signature="0:192" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1520277183717" expanded="false" signature="200:338" ph="..." />
+            <marker date="1520277183717" expanded="true" signature="379:2640" ph="{...}" />
+            <marker date="1520277183717" expanded="true" signature="386:481" ph="/// Objeto con la dirección ip introducida por el usuario. ... " />
+            <marker date="1520277183717" expanded="true" signature="514:604" ph="/// Objeto que indica que se ha establecido conexión. ... " />
+            <marker date="1520277183717" expanded="true" signature="643:736" ph="/// Objeto que indica que no se ha establecido conexión. ... " />
+            <marker date="1520277183717" expanded="true" signature="778:858" ph="/// Objeto que indica el panel del cliente. ... " />
+            <marker date="1520277183717" expanded="true" signature="899:1138" ph="/// Método que se ejecuta cuando se pulsa el botón save. ... " />
+            <marker date="1520277183717" expanded="true" signature="1162:1550" ph="{...}" />
+            <marker date="1520277183717" expanded="true" signature="1560:1763" ph="/// Comprueba si existe conexión con la WEB API. ... " />
+            <marker date="1520277183717" expanded="true" signature="1800:1863" ph="{...}" />
+            <marker date="1520277183717" expanded="true" signature="1906:2638" ph="{...}" />
+            <marker date="1520277183717" expanded="true" signature="2125:2632" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StartTrainingScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="43" />
+          <folding>
+            <marker date="1520277249964" expanded="true" signature="0:201" ph="/* Práctica: SaladilloVr ... */" />
+            <marker date="1520277249964" expanded="false" signature="208:359" ph="..." />
+            <marker date="1520277249964" expanded="true" signature="409:1937" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="416:612" ph="/// Método click del botón. ... " />
+            <marker date="1520277249964" expanded="true" signature="636:806" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="755:800" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="812:1009" ph="/// Guarda la información del cliente. ... " />
+            <marker date="1520277249964" expanded="true" signature="1038:1093" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1128:1935" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1558:1929" ph="{...}" />
+            <marker date="1520277249964" expanded="true" signature="1795:1919" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TrainingButtonScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="48" column="35" lean-forward="false" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+          <folding>
+            <marker date="1520277338758" expanded="true" signature="0:205" ph="/* Práctica: SaladilloFitVR ... */" />
+            <marker date="1520277338758" expanded="false" signature="213:351" ph="..." />
+            <marker date="1520277338758" expanded="true" signature="402:3567" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="409:498" ph="/// Corresponde al número de entrenamiento asignado. ... " />
+            <marker date="1520277338758" expanded="true" signature="529:598" ph="/// Corresponde al panel detail. ... " />
+            <marker date="1520277338758" expanded="true" signature="713:915" ph="/// Al hacer click se ejecutará una corrutina que ejecutuará una pedicion a la api y también guarda dicho entrena ... " />
+            <marker date="1520277338758" expanded="true" signature="939:1016" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1022:1198" ph="/// Método que ejecutará la corrutina, esta enviará una solicitud con el número de entrenamiento y esperará una l ... " />
+            <marker date="1520277338758" expanded="true" signature="1230:1287" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1325:3243" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1549:3237" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1788:3227" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="1974:2057" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="2666:3213" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3249:3565" ph="Entidades" />
+            <marker date="1520277338758" expanded="true" signature="3297:3350" ph="{...}" />
+            <marker date="1520277338758" expanded="true" signature="3401:3549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
